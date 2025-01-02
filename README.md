@@ -29,8 +29,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Any image aligned to the right. Beware the width -->
 
-- 👨🏽‍💻 I’m currently learning **AI**
-- 🌱 I like music.
+- 👨🏽‍💻 I’m currently learning **AI**;
+- 🌱 I like music;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ttzwork@bupt.com;
 - 🏆 national-level:7️⃣  provincial-level......
