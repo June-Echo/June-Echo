@@ -28,6 +28,8 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- Any image aligned to the right. Beware the width -->
 
 - 👨🏽‍💻 I’m currently learning **Java**
 - 🌱 I like music.
