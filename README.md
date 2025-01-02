@@ -15,7 +15,7 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 
 
--  <img alt="GIF" src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="25" /> &nbsp; I’m currently learning **Java**. <img align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Java**. <img align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like music. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **......**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me Wechat: **z1462413640**<br>
