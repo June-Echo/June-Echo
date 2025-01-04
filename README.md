@@ -33,7 +33,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I like music;
 - 📫 How to reach me: ttzwork@bupt.com;
 - 🏆 national-level:7️  provincial-level:10+
-- 💬 .......
+- ☑️ Software Designer Intermediate
 
 
 
