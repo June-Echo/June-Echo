@@ -7,6 +7,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![[Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)]
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -31,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently learning **AI**;
 - 🌱 I like music;
-- 📫 How to reach me: ttzwork@bupt.com;
+- 📫 How to reach me: 1462413640@qq.com;
 - 🏆 national-level:7️  provincial-level:10+
 - ☑️ Software Designer Intermediate
 
